@@ -1,4 +1,4 @@
-#Gesture-Controlled Volume and Brightness
+#Gesture-Controlled Volume and Brightness By Priyanshu Kashyap
 
 This Python program allows you to control your computer's volume and brightness using hand gestures. By leveraging computer vision techniques, the program tracks the distance between specific fingers to adjust settings seamlessly:
 
