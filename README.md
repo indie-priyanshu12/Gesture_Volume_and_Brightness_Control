@@ -45,12 +45,4 @@ This project was developed as part of a first-year Computer Science and Engineer
 Developed by: Priyanshu Kashyap
 
 Additional Contributions by: Siddharth Sonawane
-## Project Background
 
-This project was developed as part of a first-year Computer Science and Engineering (CSE) course in college. It showcases the practical application of computer vision and human-computer interaction principles. By using hand gestures to adjust basic computer settings, the project explores intuitive and non-traditional user interfaces.
-
-## Contribution
-
-Developed by: Priyanshu Kashyap
-
-Additional Contributions by: Siddharth Sonawane
